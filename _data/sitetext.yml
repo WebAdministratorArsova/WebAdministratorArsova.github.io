@@ -188,7 +188,7 @@ es: &DEFAULT_ES
       #  icon: fas fa-laptop
       - title: "Consultoria" #[Markdown](https://en.wikipedia.org/wiki/Markdown)    esto es un ejemplo para poner links en los titulos
         desc: "Consultorías sobre **Scrum**, llevando equipos a la agilidad."
-        icon: fa-thin fa-award
+        icon: fas fa-award
 
   portfolio:
     title: "Portafolio"
