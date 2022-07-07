@@ -1,18 +1,22 @@
-#---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+---
+title: Arsova.mx v1.0
+subtitle: Este fue el primer sitio web de Arsova.mx
+image: assets/img/portfolio/ArsovaMX-FullSite.jpg
+alt: Sitio web v1.0
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Arsova.mx v1.0
+  subtitle: Este fue el primer sitio web de Arsova.mx
+  thumbnail: assets/img/portfolio/Arsova1-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+# Arsova v1.0
+
+Este fue nuestro primer sitio web que tuvimos ya como **Arsova.mx**, iniciamos utilizando WordPress para construir el sitio, con ayuda de algunos plugins y algunas APIs para poder enviar correos desde el formulario de contacto.
+
+Después de haber tenido que pausar el proyecto por 2 años aproximadamente nos dimos cuenta de que si bien WordPress había sido el camino más fácil que podíamos tomar en ese entonces para comenzar no era el más eficiente ni el adecuado y no nos dejaba completamente satisfechos. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Fecha: Principios de 2020
+- Cliente: Arsova
+- Categoria: Sitio web
 
