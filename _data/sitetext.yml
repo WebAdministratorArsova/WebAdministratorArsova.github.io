@@ -220,7 +220,7 @@ es: &DEFAULT_ES
         alt: image alt text
       - title: "Nace Arsova.mx"
         year: "2020"
-        desc: "A inicios de abril de 2020 cuando el caos generado por el COVID-19 obligó a todos a trabajar desde casa, este entusiasta se propone el crear su empresa para desarrollo de proyectos en diferentes áreas de ingeniería con el fin de apoyar a sus colegas en tiempos de crisis además de hacer un sueño realidad."
+        desc: "Aquí es donde todo comienza"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -230,7 +230,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Arsova nace de el entusiasmo de un ingeniero mecatrónico a quien le apasiona el desarrollo de proyectos, siempre supo que quería dedicarse a el área de desarrollo. A inicios de abril de 2020 cuando el caos generado por el COVID-19 obligó a todos a trabajar desde casa, este entusiasta se propone el crear su empresa para desarrollo de proyectos en diferentes áreas de ingeniería con el fin de apoyar a sus colegas en tiempos de crisis además de hacer un sueño realidad."
     section: nosotros
 
   #clients:
