@@ -298,6 +298,10 @@ es: &DEFAULT_ES
     title: "Contáctenos"
     text: "email: info@Arsova.mx o en nuestras redes sociales."
     section: contacto
+
+    {% include contact-form.html %}
+
+
     #name: "Nombre*"
     #name-validation: "Por favor ingrese su nombre."
     #email: "Correo Electrónico*"
