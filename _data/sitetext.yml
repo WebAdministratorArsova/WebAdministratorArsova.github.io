@@ -186,9 +186,9 @@ es: &DEFAULT_ES
       #- title: "Diseño Responsivo"
       #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       #  icon: fas fa-laptop
-      - title: "Consultoria" #[Markdown](https://en.wikipedia.org/wiki/Markdown)    esto es un ejemplo para poner links en los titulos
-        desc: "Consultorías sobre **Scrum**, llevando equipos a la agilidad."
-        icon: fas fa-award
+      - title: "Consultorias **Scrum**" #[Markdown](https://en.wikipedia.org/wiki/Markdown)    esto es un ejemplo para poner links en los titulos
+        desc: "Consultorías sobre el marco de trabajo **Scrum**, llevando equipos a la agilidad."
+        icon: fas fa-arrows-rotate
 
   portfolio:
     title: "Portafolio"
