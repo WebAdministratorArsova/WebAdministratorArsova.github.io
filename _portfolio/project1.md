@@ -1,12 +1,12 @@
 ---
 title: Arsova.mx v1.0
-subtitle: Consultoria y servicios profesionales - Ingeniería
+subtitle: Consultoria y servicios profesionales - Ingeniería <br> Este fue el primer sitio web de Arsova.mx
 image: assets/img/portfolio/ArsovaMX-FullSite.jpg
 alt: Sitio web v1.0
 
 caption:
   title: Arsova.mx v1.0
-  subtitle: Este fue el primer sitio web de Arsova.mx
+  subtitle: Consultoria y servicios profesionales - Ingeniería
   thumbnail: assets/img/portfolio/Arsova1-thumbnail.jpg
 ---
 # Arsova v1.0
