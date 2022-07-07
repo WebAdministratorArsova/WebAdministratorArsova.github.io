@@ -173,15 +173,15 @@ es: &DEFAULT_ES
     title: ¡Bienvenidos!
     text: Arsova - Ingeniería
     button: ¿Qué ofrecemos?
-    buttonlink: "#Servicios"
+    buttonlink: "#servicios"
 
   services:
     title: "Servicios"
     text: "Llevando ideas del papel a la realidad"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Sitios web"
+        desc: "Buscamos crear sitios web que creen una identidad en internet para nuestros clientes y que sea su mejor carta de presentación."
         icon: fa-address-card #find more at https://fontawesome.com/icons
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
