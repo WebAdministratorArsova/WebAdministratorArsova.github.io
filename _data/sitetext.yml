@@ -298,16 +298,25 @@ es: &DEFAULT_ES
     title: "Contáctenos"
     #text: "Lorem ipsum or call 123456789"
     section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
+
+    <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
+      <input type="email" name="email" placeholder="Your Email">
+      <input type="text" name="name" placeholder="Your Name">
+      <input type="hidden" name="utf8" value="✓">
+      <button type="submit">Submit</button>
+    </form>
+
+
+    #name: "Nombre*"
+    #name-validation: "Por favor ingrese su nombre."
+    #email: "Correo Electrónico*"
+    #email-validation: "Por favor ingrese su correo electrónico."
+    #phone: "Número Telefónico*"
+    #phone-validation: "Por favor ingrese su número telefónico."
+    #message: "Mensaje*"
+    #message-validation: "Por favor escriba un mensaje."
+    #subject: "Envío del formulario de contacto"
+    #submit: "Enviar Mensaje"
 
   footer:
     legal: "Política de Privacidad"
