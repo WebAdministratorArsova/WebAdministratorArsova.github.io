@@ -198,29 +198,29 @@ es: &DEFAULT_ES
 
   timeline:
     title: "Cronología"
-    text: "Lorem ipsum timeline"
+    #text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "El Comienzo"
+        year: "2015"
+        desc: "Un estudiante de ingeniería mecatrónica comienza a tener algunas asignaciones para desarrollar soluciones para pequeñas y medianas empresas así como algunas startups de la región."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Clientes grandes"
+        year: "2017-2018"
+        desc: "Los primeros clientes "grandes" comienzan a confiar en el aún estudiante y ahora su trabajo repercute en empresas a nivel nacional"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Grandes ligas"
+        year: "2018-2020"
+        desc: "Hora de trabajar para empresas globales."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+      - title: "Nace Arsova.mx"
+        year: "2020"
+        desc: "A inicios de abril de 2020 cuando el caos generado por el COVID-19 obligó a todos a trabajar desde casa, este entusiasta se propone el crear su empresa para desarrollo de proyectos en diferentes áreas de ingeniería con el fin de apoyar a sus colegas en tiempos de crisis además de hacer un sueño realidad."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
