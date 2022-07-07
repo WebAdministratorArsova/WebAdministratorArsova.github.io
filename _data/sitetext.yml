@@ -296,17 +296,8 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    #text: "Lorem ipsum or call 123456789"
+    text: "info@Arsova.mx o en nuestras redes sociales."
     section: contacto
-
-    <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
-      <input type="email" name="email" placeholder="Your Email">
-      <input type="text" name="name" placeholder="Your Name">
-      <input type="hidden" name="utf8" value="✓">
-      <button type="submit">Submit</button>
-    </form>
-
-
     #name: "Nombre*"
     #name-validation: "Por favor ingrese su nombre."
     #email: "Correo Electrónico*"
