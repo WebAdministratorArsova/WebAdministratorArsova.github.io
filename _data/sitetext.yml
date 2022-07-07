@@ -210,7 +210,7 @@ es: &DEFAULT_ES
         alt:
       - title: "Clientes grandes"
         year: "2017-2018"
-        desc: "Los primeros clientes "grandes" comienzan a confiar en el aún estudiante y ahora su trabajo repercute en empresas a nivel nacional"
+        desc: "Los primeros clientes grandes comienzan a confiar en el aún estudiante y ahora su trabajo repercute en empresas a nivel nacional"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Grandes ligas"
