@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: ¡Bienvenidos!
+    text: Arsova - Ingeniería
+    button: ¿Qué ofrecemos?
     buttonlink: "#services"
 
   services:
@@ -170,19 +170,19 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
+    title: ¡Bienvenidos!
+    text: Arsova - Ingeniería
+    button: ¿Qué ofrecemos?
+    buttonlink: "#services"
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Llevando ideas del papel a la realidad"
     section: servicios
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-thin fa-address-card #find more at https://fontawesome.com/icons
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
