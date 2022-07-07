@@ -188,11 +188,11 @@ es: &DEFAULT_ES
       #  icon: fas fa-laptop
       - title: "Consultorias **Scrum**" #[Markdown](https://en.wikipedia.org/wiki/Markdown)    esto es un ejemplo para poner links en los titulos
         desc: "Consultorías sobre el marco de trabajo **Scrum**, llevando equipos a la agilidad."
-        icon: fa-thin fa-screen-users
+        icon: fab fa-screen-users
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Algunos de nuestros resultados"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -314,7 +314,7 @@ es: &DEFAULT_ES
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/ArsovaMX
         icon: "fab fa-facebook-f"
       #- url: https://linkedin.com
       #  icon: "fab fa-linkedin-in"
