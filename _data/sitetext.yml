@@ -183,9 +183,9 @@ es: &DEFAULT_ES
       - title: "Sitios web"
         desc: "Llevando a nuestros clientes a tener una identidad en internet siendo su mejor carta de presentación."
         icon: fab address-card #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+      #- title: "Diseño Responsivo"
+      #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #  icon: fas fa-laptop
       - title: "Consultoria" #[Markdown](https://en.wikipedia.org/wiki/Markdown)    esto es un ejemplo para poner links en los titulos
         desc: "Consultorías sobre **Scrum**, llevando equipos a la agilidad."
         icon: fa-thin fa-award
