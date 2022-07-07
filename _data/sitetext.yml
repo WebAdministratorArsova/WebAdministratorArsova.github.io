@@ -171,7 +171,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenidos!
-    text: Arsova - Ingeniería
+    text: Arsova
     button: ¿Qué ofrecemos?
     buttonlink: "#servicios"
 
