@@ -21,9 +21,9 @@ title      : Arsova
 email      : info@Arsova.mx #this is also the email contact forms will go to
 description: "Arsova - Llevando tus ideas del papel a la realidad."
 author     : Arsova
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\Favicon.png
+  height: 52 #height in px, defaults to 52px
 
 locale: "es" # See available languages in _data/sitetext.yml
 
