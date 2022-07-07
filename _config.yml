@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://test.arsova.mx/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/me" # the subpath of your site, e.g. /blog
 
 title      : Arsova
 email      : info@Arsova.mx #this is also the email contact forms will go to
