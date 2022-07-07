@@ -220,11 +220,17 @@ es: &DEFAULT_ES
         alt: image alt text
       - title: "Nace Arsova.mx"
         year: "2020"
-        desc: "Aquí es donde todo comienza"
+        desc: "Se crea el primer sitio web Arsova.mx se inicia una campaña de marketing y se comienza a buscar clientes. Después de dificultades no esperadas se decide poner en pausa el proyecto hasta nuevo aviso."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
+      - title: "Un nuevo comienzo"
+        year: "2022"
+        desc: "Aquí es donde el siguiente nivel comienza.."
+        image: assets/img/timeline/4.jpg
+        alt:
+        align: left
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
