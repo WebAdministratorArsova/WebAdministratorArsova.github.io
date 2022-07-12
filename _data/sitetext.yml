@@ -196,42 +196,42 @@ es: &DEFAULT_ES
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  timeline:
-    title: "Cronología"
+#  timeline:
+#    title: "Cronología"
     #text: "Lorem ipsum timeline"
-    section: cronologia
+#    section: cronologia
     # left is the default
     #start_align: "left"
-    events:
-      - title: "El Comienzo"
-        year: "2015"
-        desc: "Un estudiante de ingeniería mecatrónica comienza a tener algunas asignaciones para desarrollar soluciones para pequeñas y medianas empresas así como algunas startups de la región."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Clientes grandes"
-        year: "2017-2018"
-        desc: "Los primeros clientes grandes comienzan a confiar en el aún estudiante y ahora su trabajo repercute en empresas a nivel nacional"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Grandes ligas"
-        year: "2018-2020"
-        desc: "Hora de trabajar para empresas globales."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Nace Arsova.mx"
-        year: "2020"
-        desc: "Se crea el primer sitio web Arsova.mx se inicia una campaña de marketing y se comienza a buscar clientes. Después de dificultades no esperadas se decide poner en pausa el proyecto hasta nuevo aviso."
-        image: assets/img/timeline/4.jpg
-        alt:
+#    events:
+#      - title: "El Comienzo"
+#        year: "2015"
+#        desc: "Un estudiante de ingeniería mecatrónica comienza a tener algunas asignaciones para desarrollar soluciones para pequeñas y medianas empresas así como algunas startups de la región."
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Clientes grandes"
+#        year: "2017-2018"
+#        desc: "Los primeros clientes grandes comienzan a confiar en el aún estudiante y ahora su trabajo repercute en empresas a nivel nacional"
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "Grandes ligas"
+#        year: "2018-2020"
+#        desc: "Hora de trabajar para empresas globales."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "Nace Arsova.mx"
+#        year: "2020"
+#        desc: "Se crea el primer sitio web Arsova.mx se inicia una campaña de marketing y se comienza a buscar clientes. Después de dificultades no esperadas se decide poner en pausa el proyecto hasta nuevo aviso."
+#        image: assets/img/timeline/4.jpg
+#        alt:
         # you can enforce the alignment
-        align: right
-      - title: "Un nuevo comienzo"
-        year: "2022"
-        desc: "Aquí es donde el siguiente nivel comienza.."
-        image: assets/img/timeline/4.jpg
-        alt:
-        align: left
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+#        align: right
+#      - title: "Un nuevo comienzo"
+#        year: "2022"
+#        desc: "Aquí es donde el siguiente nivel comienza.."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+#        align: left
+#    end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Sobre nosotros"
